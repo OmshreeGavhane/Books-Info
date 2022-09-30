@@ -186,25 +186,6 @@
         "Author": "Ruskin Bond",
         
         },
-{
-        "id":"056",
-        "book-name": "Man mai hai vishvas",
-        "Author": "Vishvas nangare patil",
-        "language": "Marathi"
-},
-
-
-
-       {
-         "id":"26",
-         "book-name": "The Power of your subconscious mind",
-         "Author": "Joseph Murphy",
-         "language": "English"
-      },
-
-      
-   
-
 
  {
         "id":"14",
@@ -264,7 +245,6 @@
 
       },
 
-
    ]
 }
 
@@ -284,5 +264,12 @@
          "Author": "Avinash Dhramadhikari",
          "language": "Marathi"
 
+
+      },
+
+{
+        "book-name": "The Power Of Positive Thinking",
+        "Author": "Noram Vincent Peale",
+        "language": "English"
 
       },
